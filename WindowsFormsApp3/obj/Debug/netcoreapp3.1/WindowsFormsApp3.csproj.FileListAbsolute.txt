@@ -1,0 +1,15 @@
+C:\Users\JOKER\source\repos\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.exe
+C:\Users\JOKER\source\repos\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.deps.json
+C:\Users\JOKER\source\repos\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.runtimeconfig.json
+C:\Users\JOKER\source\repos\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.runtimeconfig.dev.json
+C:\Users\JOKER\source\repos\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.dll
+C:\Users\JOKER\source\repos\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.pdb
+C:\Users\JOKER\source\repos\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\JOKER\source\repos\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.Form1.resources
+C:\Users\JOKER\source\repos\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\JOKER\source\repos\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.AssemblyInfoInputs.cache
+C:\Users\JOKER\source\repos\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.AssemblyInfo.cs
+C:\Users\JOKER\source\repos\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\JOKER\source\repos\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.dll
+C:\Users\JOKER\source\repos\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.pdb
+C:\Users\JOKER\source\repos\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.genruntimeconfig.cache
