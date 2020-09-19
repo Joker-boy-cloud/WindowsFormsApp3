@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+using System.Linq;
 namespace WindowsFormsApp3
 {
     class Caezar_Cipher
@@ -20,7 +20,7 @@ namespace WindowsFormsApp3
 		private string Output()
         {
 			char[] New_Alphabet = Alphabet.ToCharArray();//Создание резервного массива символов алфавита
-			key_word = new string(key_word).Replace(" ", "");//Удаление повторяющихся символов
+			key_word = new string(key_word.Distinct().ToArray()).Replace(" ", "");//Удаление повторяющихся символов
 			Shift %= New_Alphabet.Length;
 			for (int Index = 0,  num = 0; num < New_Alphabet.Length; num++)
 			{
